@@ -15,7 +15,14 @@ Key to the GitHub project is the Python script "py_bikeshare.py", which is the m
 
 ### Credits
 I'd like to credit all available Udacity teaching material that has enabled me to realize this first programming project. This knowledge foundation has been enhanced by several case-related GitHub and Stackoverflow online articles. For the coding work, the official Python and Pandas documentations must be mentioned as reliable sources for code challenges.
+<<<<<<< HEAD
 
 ### README versions
 Initial content: June 5, 2020
 Update published: June 8, 2020
+||||||| 8c7eddb... docs: version history added to readme file
+
+### README versions
+Initial content: June 5, 2020
+=======
+>>>>>>> parent of 8c7eddb... docs: version history added to readme file
