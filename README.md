@@ -24,5 +24,10 @@ Update published: June 8, 2020
 
 ### README versions
 Initial content: June 5, 2020
+<<<<<<< HEAD
 =======
 >>>>>>> parent of 8c7eddb... docs: version history added to readme file
+||||||| merged common ancestors
+=======
+Update published: June 8, 2020
+>>>>>>> 01e46e99b92163d779c460dc70f941ff05a83b86
