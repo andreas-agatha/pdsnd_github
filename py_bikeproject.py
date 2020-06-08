@@ -203,7 +203,9 @@ def user_stats(df):
 
 
 def show_data(df):
-    """ Displays individual raw data on the users' request """
+    """ Displays individual raw data on the users' request.
+    There is no invidual function return, this instead provides a unique interactive user feature to demand more raw data lines after each command loop. """
+
     print("\nWould you like to see some raw data for the statistics as calculated above? yes/no")
     user_choice = input("Enter yes/no: ").lower()
     print()
