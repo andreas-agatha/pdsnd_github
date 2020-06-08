@@ -18,7 +18,7 @@ def get_filters():
         (str) month - name of the month to filter by, or "all" to apply no month filter
         (str) day - name of the day of week to filter by, or "all" to apply no day filter
     """
-    print("Hi there! Thanks for your interest in US bikeshare data insights!")
+    print("\nHi there! Thanks for your interest in US bikeshare data insights!")
     print()
     # TO DO: get user input for city (chicago, new york city, washington). HINT: Use a while loop to handle invalid inputs
     print("Which city would you like to explore bikeshare data for?")
@@ -211,7 +211,7 @@ def show_data(df):
     while user_choice == 'yes':
         print(df.iloc[show_data - 5:show_data])
         show_data += 5
-        print("\nWould you like to see more data? yes/no")
+        print("\nWould you like to see more data? yes/no\n")
         user_choice = input("Enter yes/no: ").lower()
         if user_choice != 'yes':
             break
